@@ -129,7 +129,7 @@ int main()
 #### Output 
 
 (A) <br>       
-![]() 
+![](https://github.com/Shloka-Patel/Experiment---15/blob/main/Output_15A.png) 
 
 (B) <br> 
 ![]() 
