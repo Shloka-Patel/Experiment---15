@@ -8,6 +8,13 @@ Visual Studio Code
 
 #### Theory 
 Recursion in C++, is a technique in which a function calls itself repeatedly until a given condition is satisfied. <br> 
+Syntax Structure of Recursion <br> 
+return_type recursive_func { <br> 
+    .... <br> 
+       // Base Condition <br> 
+       // Recursive Case <br> 
+       .... <br> 
+} <br> 
 
 #### Code 
 
