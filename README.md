@@ -7,6 +7,7 @@ To study and implement Recursion.
 Visual Studio Code 
 
 #### Theory 
+Recursion in C++, is a technique in which a function calls itself repeatedly until a given condition is satisfied. <br> 
 
 #### Code 
 
