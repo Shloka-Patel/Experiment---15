@@ -16,6 +16,12 @@ return_type recursive_func { <br>
        .... <br> 
 } <br> 
 
+Base Condition <br> 
+The base condition is the condition that is used to terminate the recursion. The recursive function will keep calling itself till the base condition is satisfied. <br> 
+
+Recursive Case <br> 
+Recursive case is the way in which the recursive call is present in the function. Recursive case can contain multiple recursive calls, or different parameters such that at the end, the base condition is satisfied and the recursion is terminated. 
+
 #### Code 
 
 (A) <br> 
